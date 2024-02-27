@@ -1,4 +1,4 @@
-module github.com/tinchourteaga-ml/desafio-go-testing-martin-urteaga
+module github.com/tinchourteaga/hackathon-go-testing
 
 go 1.15
 
